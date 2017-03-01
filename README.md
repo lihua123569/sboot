@@ -10,7 +10,11 @@
 
       React 最佳实践——那些 React 没告诉你但很重要的事:https://www.v2ex.com/t/274697
       
-      
-      
-      
-      
+     
+# 测试案例：    
+
+      启动：SampleDevToolsApplication.java
+
+      访问：
+      localhost:8443/view/index
+      localhost:8443/view/getUser
